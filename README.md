@@ -14,7 +14,7 @@ Solution:
     
 The Doctor Appointment App built with the MERN (MongoDB, Express.js, React.js, Node.js) Stack is a comprehensive web application designed to streamline the process of scheduling and managing appointments with healthcare professionals. This app aims to simplify the appointment booking process, enhance communication between doctors and patients, and provide a seamless experience for all stakeholders.
 
-Key Features:
+#Key Features:
 
 ->User Registration and Authentication:
 Patients and doctors can create their accounts and log in securely.
